@@ -1,0 +1,5 @@
+D:\dotnet_workspace\gplusgplus\gplusgplus\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\dotnet_workspace\gplusgplus\gplusgplus\obj\x86\Debug\com.xu81.dotnet.gplusplus.MainForm.resources
+D:\dotnet_workspace\gplusgplus\gplusgplus\obj\x86\Debug\com.xu81.dotnet.gplusplus.Properties.Resources.resources
+D:\dotnet_workspace\gplusgplus\gplusgplus\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\dotnet_workspace\gplusgplus\gplusgplus\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
